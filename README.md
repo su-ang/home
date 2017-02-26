@@ -1,2 +1,2 @@
 # home
-this is aa new home
+this is a new home
